@@ -12,7 +12,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-Express_5-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![Google Gemini](https://img.shields.io/badge/Google-Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
-[![License](https://img.shields.io/badge/License-MIT-f59e0b?style=flat-square)](LICENSE)
 
 <br/>
 
@@ -475,50 +474,6 @@ node server.js
 - [ ] Browser extension for inline scanning
 - [ ] Webhook notifications (Slack / Discord)
 - [ ] Two-factor authentication (2FA)
-
----
-
-##  Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-```bash
-# 1. Fork the project on GitHub
-
-# 2. Create your feature branch
-git checkout -b feature/your-feature-name
-
-# 3. Commit your changes (use Conventional Commits)
-git commit -m "feat: add bulk CSV scanning"
-
-# 4. Push to your branch
-git push origin feature/your-feature-name
-
-# 5. Open a Pull Request on GitHub
-```
-
-Please follow [Conventional Commits](https://www.conventionalcommits.org/) for commit message style and ensure your code passes ESLint before submitting.
-
----
-
-##  License
-
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
-
----
-
-##  Author
-
-<div align="center">
-
-**Eed Mohammad**
-
-[![GitHub](https://img.shields.io/badge/GitHub-ali4441-181717?style=flat-square&logo=github)](https://github.com/ali4441)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
-
-*If this project helped you, please consider giving it a  — it means a lot!*
-
-</div>
 
 ---
 
