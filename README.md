@@ -15,7 +15,7 @@
 
 <br/>
 
-[  Live Demo](https://phishing-detector-sepia.vercel.app) · [ Report Bug](https://github.com/ali4441/ali4441-phishingdetector/issues) · [ Request Feature](https://github.com/ali4441/ali4441-phishingdetector/issues)
+[  Live Demo](https://phishing-detector-sepia.vercel.app)
 
 <br/>
 
