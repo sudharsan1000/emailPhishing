@@ -217,8 +217,8 @@ A Google Gemini API key
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/Ali4441/phishingDetector.git
-cd ali4441-phishingdetector
+git clone https://github.com/emailPhishing
+cd emailPhishing
 ```
 
 **2. Install server dependencies**
